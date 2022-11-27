@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jesusgperez/js-asincronismo#readme",
   "dependencies": {
+    "node-fetch": "^2.6.7",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
